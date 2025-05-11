@@ -9,7 +9,7 @@ description,Description,,,DCTERMS.abstract,abstract
 subject,Subject,true,,DCTERMS.subject,mentions
 source,Source,,,DCTERMS.source,holdingArchive
 identifier,Unique ID,,,DCTERMS.identifier,
-type,Asset Type,,,,,
+type,Asset Type,,,,
 rightsstatement,Digital Object Rights Link,,,,,
 duration,Duration,,,DCTERMS.extent,duration
 object_location,Permalink,,,DCTERMS.URI,url
