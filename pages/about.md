@@ -1,5 +1,5 @@
 ---
-title: About
+title: Voices from the Food Revolution - People Who Changed the way Americans Eat
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
