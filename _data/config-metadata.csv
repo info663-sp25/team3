@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 objectid,,,,,
-parentid,,,,,,
+parentid,,,,,
 title,Title,,,DCTERMS.title,name
 creator,Interviewer,true,,DCTERMS.creator,creator
 creatorBioNote,Biographical Note,,,DCTERMS.description,
