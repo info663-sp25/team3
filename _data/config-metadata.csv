@@ -1,15 +1,16 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+title,Title,,,DCTERMS.title,name
+creator,Interviewer,,,DCTERMS.creator,creator
+creatorBioNote,Biographical Note,,,DCTERMS.description,
+contributorBioNote,Biographical Note,,,DCTERMS.description
+contributor,Interviewee,,,DCTERMS.contributor,
+date,Date of interview,,,DCTERMS.created,dateCreated
+description,Description,,,DCTERMS.abstract,abstract
+subject,Subject,true,,DCTERMS.subject,mentions
+source,Source,,,DCTERMS.source,holdingArchive
+identifier,Unique ID,,,DCTERMS.identifier,
+type,Asset Type,,,,,
+rightsstatement,Digital Object Rights Link,,,,,
+duration,Duration,,,DCTERMS.extent,duration
+object_location,Permalink,,,DCTERMS.URI,url
+rights,Rights Summary,,,DCTERMS.rights,license
