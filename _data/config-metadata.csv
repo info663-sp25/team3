@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,name
 creator,Interviewer,,,DCTERMS.creator,creator
 creatorBioNote,Biographical Note,,,DCTERMS.description,
-contributorBioNote,Biographical Note,,,DCTERMS.description
+contributorBioNote,Biographical Note,,,DCTERMS.description,
 contributor,Interviewee,,,DCTERMS.contributor,
 date,Date of interview,,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.abstract,abstract
