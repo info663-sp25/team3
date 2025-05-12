@@ -1,6 +1,4 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-objectid,,,,,
-parentid,,,,,
 title,Title,,,DCTERMS.title,name
 creator,Interviewer,,,DCTERMS.creator,creator
 creatorBioNote,Interviewer Biographical Note,,,DCTERMS.description,
@@ -14,5 +12,4 @@ identifier,Unique ID,,,DCTERMS.identifier,
 type,Asset Type,,,,
 rightsstatement,Digital Object Rights Link,,,,
 duration,Duration,,,DCTERMS.extent,duration
-object_location,Permalink,,,DCTERMS.URI,url
 rights,Rights Summary,,,DCTERMS.rights,license
