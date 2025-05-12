@@ -3,8 +3,8 @@ objectid,,,,,
 parentid,,,,,
 title,Title,,,DCTERMS.title,name
 creator,Interviewer,true,,DCTERMS.creator,creator
-creatorBioNote,Biographical Note,,,DCTERMS.description,
-contributorBioNote,Biographical Note,,,DCTERMS.description,
+creatorBioNote,Interviewer Biographical Note,,,DCTERMS.description,
+contributorBioNote,Interviewee Biographical Note,,,DCTERMS.description,
 contributor,Interviewee,true,,DCTERMS.contributor,
 date,Date of interview,true,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.abstract,abstract
