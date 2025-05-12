@@ -2,16 +2,16 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 objectid,,,,,
 parentid,,,,,
 title,Title,,,DCTERMS.title,name
-creator,Interviewer,true,,DCTERMS.creator,creator
+creator,Interviewer,,,DCTERMS.creator,creator
 creatorBioNote,Interviewer Biographical Note,,,DCTERMS.description,
 contributorBioNote,Interviewee Biographical Note,,,DCTERMS.description,
 contributor,Interviewee,true,,DCTERMS.contributor,
 date,Date of interview,true,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.abstract,abstract
 subject,Subject,true,,DCTERMS.subject,mentions
-source,Source,true,,DCTERMS.source,holdingArchive
+source,Source,,,DCTERMS.source,holdingArchive
 identifier,Unique ID,,,DCTERMS.identifier,
-type,Asset Type,true,,,
+type,Asset Type,,,,,
 rightsstatement,Digital Object Rights Link,,,,
 duration,Duration,,,DCTERMS.extent,duration
 object_location,Permalink,,,DCTERMS.URI,url
