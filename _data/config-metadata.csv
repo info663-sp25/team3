@@ -2,9 +2,9 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,name
 creator,Interviewer,,,DCTERMS.creator,creator
 creatorBioNote,Interviewer Biographical Note,,,DCTERMS.description,
-contributor,Interviewee,,,,DCTERMS.contributor,
+contributor,Interviewee,,,DCTERMS.contributor,
 contributorBioNote,Interviewee Biographical Note,,,DCTERMS.description,
-date,Date of interview,,,,DCTERMS.created,dateCreated
+date,Date of interview,,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.abstract,abstract
 subject,Subject,true,,DCTERMS.subject,mentions
 source,Source,,,DCTERMS.source,holdingArchive
