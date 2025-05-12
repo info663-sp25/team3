@@ -4,8 +4,8 @@ parentid,,,,,
 title,Title,,,DCTERMS.title,name
 creator,Interviewer,,,DCTERMS.creator,creator
 creatorBioNote,Interviewer Biographical Note,,,DCTERMS.description,
-contributorBioNote,Interviewee Biographical Note,,,DCTERMS.description,
 contributor,Interviewee,true,,DCTERMS.contributor,
+contributorBioNote,Interviewee Biographical Note,,,DCTERMS.description,
 date,Date of interview,true,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.abstract,abstract
 subject,Subject,true,,DCTERMS.subject,mentions
